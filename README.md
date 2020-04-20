@@ -4,7 +4,7 @@ A project for searching and adding movies to IMDB data will be done.
 
 Asking who
 1. Search will be made using movie title, movie year and movie genre using http://www.omdbapi.com/ service.
-2. Those who are asked to be shown in the result
+2. Those who are asked to be shown in the result;
    - The name of the movie  
   - Year  
   - Imdb score  
