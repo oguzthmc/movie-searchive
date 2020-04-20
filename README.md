@@ -1,6 +1,6 @@
 # movie-searchive
 
-**Movie Archive Search Engine with OMDB API in React** / ***90Pixel Academy 2020 - Frontend Code Challenge***
+## ***Movie Archive Search Engine with OMDB API in React*** / ***90Pixel Academy 2020 - Frontend Code Challenge***
 
 <hr>
 
