@@ -2,9 +2,9 @@
 
 **Movie Archive Search Engine with OMDB API in React**
 
-<hr>
-
 ***90Pixel Academy 2020 - Frontend Code Challenge***
+
+<hr>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
