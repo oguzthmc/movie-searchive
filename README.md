@@ -1,3 +1,26 @@
+# movie-searchive
+
+A project for searching and adding movies to IMDB data will be done.
+
+Asking who
+- Search will be made using movie title, movie year and movie genre using http://www.omdbapi.com/ service.
+- Those who are asked to be shown in the results;
+     - The name of the movie,
+     - year,
+     - imdb score
+     - poster
+- Results can be added to favorites
+- Favorites page will be: This page will list the favorites movies
+Technically awaited
+- It will be responsive.
+- Favorites will be kept on localStorage. (should not be lost when re-entered)
+- Technologies to be used;
+     - ReactJS,
+     - NextJS,
+     - Mobx
+     - SASS
+     - The default elements of Bootstrap can be used.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +89,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# movie-searchive
