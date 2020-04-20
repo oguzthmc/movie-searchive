@@ -3,18 +3,18 @@
 A project for searching and adding movies to IMDB data will be done.
 
 Asking who
-- Search will be made using movie title, movie year and movie genre using http://www.omdbapi.com/ service.
-- Those who are asked to be shown in the results
-  - The name of the movie
+1. Search will be made using movie title, movie year and movie genre using http://www.omdbapi.com/ service.
+2. Those who are asked to be shown in the result
+  - The name of the movie
   - Year
   - Imdb score
   - Poster
-- Results can be added to favorites
-- Favorites page will be: This page will list the favorites movies
-Technically awaited
-- It will be responsive.
-- Favorites will be kept on localStorage. (should not be lost when re-entered)
-- Technologies to be used;
+3. Results can be added to favorites
+4. Favorites page will be: This page will list the favorites movies  
+Technically awaited  
+5. It will be responsive.
+6. Favorites will be kept on localStorage. (should not be lost when re-entered)
+7. Technologies to be used;
   - ReactJS
   - NextJS
   - Mobx
