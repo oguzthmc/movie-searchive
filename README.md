@@ -6,9 +6,9 @@ Asking who
 1. Search will be made using movie title, movie year and movie genre using http://www.omdbapi.com/ service.
 2. Those who are asked to be shown in the result;
    - The name of the movie  
-     - Year  
-     - Imdb score  
-     - Poster  
+   - Year  
+   - Imdb score  
+   - Poster  
 3. Results can be added to favorites
 4. Favorites page will be: This page will list the favorites movies  
 Technically awaited  
