@@ -2,15 +2,25 @@
 
 ***Movie Archive Search Engine with OMDB API in React*** / ***90Pixel Academy 2020 - Frontend Code Challenge***
 
-<hr>
-
 ## Demo
 
 ### Link
 
 https://movie-searchive.netlify.app
 
+### Sample Run of the App  
 
+<p align="center">
+  <img src="images/screenshot1.png" width=798px height:597px /><br>
+  When you make a call, if the browser warns of blocked content, please click the unblock button
+</p>
+
+<p align="center">
+  <img src="images/screenshot2.png" width=798px height:597px /><br>
+  Detailed information about the film is given on the page that opens
+</p>
+
+<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
