@@ -12,7 +12,7 @@ https://movie-searchive.netlify.app
 
 <p align="center">
   <img src="images/screenshot1.png" width=798px height:597px /><br>
-  When you make a call, if the browser warns of blocked content, please click the unblock button
+  When you make a search, if the browser warns of blocked content, please click the unblock button
 </p>
 
 <p align="center">
